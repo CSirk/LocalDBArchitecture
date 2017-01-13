@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MovieDatabase.Entity
+namespace MovieDatabase.Core
 {
     public class Class1
     {
